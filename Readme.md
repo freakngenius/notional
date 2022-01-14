@@ -33,6 +33,7 @@ bash infrastructure/standup.bash
 * Vuong Nguyen - Blockchain Engineer
 * Son Trinh - Blockchain Engineer
 * Minh Vu Le Nhat - Customer Engineer
+* Kyle Kesterson - Chief Creative
 
 
 
